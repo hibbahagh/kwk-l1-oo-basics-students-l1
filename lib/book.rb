@@ -24,4 +24,5 @@ class Book
     end
     
     book_1 = Book.new("Murder on the Orient Express", Agatha Christie, 256)
-    book_2 = Book.new("")
+    
+    puts book_1.author

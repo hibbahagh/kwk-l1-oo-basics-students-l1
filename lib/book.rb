@@ -23,5 +23,5 @@ class Book
       @number_of_page
     end
     
-    book_1 = Book.new("Murder on the Orient Express", )
+    book_1 = Book.new("Murder on the Orient Express", Agatha Christie, )
     book_2 = 
